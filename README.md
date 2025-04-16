@@ -1,1 +1,25 @@
-# task_6
+# Overview Of The Dataset
+The dataset consist sales record for three cities of Myanmar which are Naypyitaw, Yangon and Mandalay and their respective branches A, B & C. The sales took place in the first quarter of year 2019. The dataset consist of 1000 records and 17 fields like (Invoice Id, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quantity, VAT, Total, Date, Time, Payment Method, Cogs, Gross Margin Percentage, Gross Income, Rating).
+
+# Steps Performed On Dataset
+1] Data Wrangling
+2] Feature Engineering
+3] Exploratory Data Analysis
+# Analysis Performed On Dataset
+1]Sales Analysis
+2]Product Analysis
+3]Customer Analysis
+# Questions Answered
+What is the count of distinct product lines in dataset?
+Which payment method occours most frequently?
+Which product line has highest sales?
+How much revenue is generated each month?
+Which product line generated highest revenue?
+Which city has highest revenue record?
+Which product line incurred highest VAT?
+Which customer type occours most frequently?
+Which branch exceeded average number of product sold?
+Which product line is most frequently associated with each gender?
+Identifying cusstomer type contributing highest revenue?
+Determining day of the week with highest customer rating for each branch?
+And many more....
