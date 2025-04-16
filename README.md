@@ -3,11 +3,15 @@ The dataset consist sales record for three cities of Myanmar which are Naypyitaw
 
 # Steps Performed On Dataset
 Data Wrangling
+
 Feature Engineering
+
 Exploratory Data Analysis
 # Analysis Performed On Dataset
-Sales Analysis \n
+Sales Analysis
+
 Product Analysis
+
 Customer Analysis
 # Questions Answered
 What is the count of distinct product lines in dataset?
