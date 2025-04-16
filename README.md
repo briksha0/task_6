@@ -6,9 +6,9 @@ Data Wrangling
 Feature Engineering
 Exploratory Data Analysis
 # Analysis Performed On Dataset
-1]Sales Analysis
-2]Product Analysis
-3]Customer Analysis
+Sales Analysis \n
+Product Analysis
+Customer Analysis
 # Questions Answered
 What is the count of distinct product lines in dataset?
 Which payment method occours most frequently?
